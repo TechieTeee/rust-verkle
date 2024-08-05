@@ -1,4 +1,4 @@
-# Verkle Trie 
+# Verkle Tree
 
 **This code has not been reviewed and is not safe to use in non-research capacities.**
 
