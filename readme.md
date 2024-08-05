@@ -2,7 +2,7 @@
 
 **This code has not been reviewed and is not safe to use in non-research capacities.**
 
-This is a proof of concept implementation of Verkle Tries. Any and all mistakes made are mine and are not reflective of the protocol.
+This is a proof of concept implementation of Verkle Trees. Any and all mistakes made are mine and are not reflective of the protocol.
 
 ## Note on Performance
 
