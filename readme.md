@@ -26,6 +26,7 @@ This implementation references the ethereum research and go-verkle implementatio
 -  https://github.com/gballet/go-verkle
 
   ## How to Run
+  Cargo run
 
 
 ## License
